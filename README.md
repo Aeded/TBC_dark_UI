@@ -12,5 +12,6 @@ Todo:
 3. Add more customized textures (transparent glow, make black borders around portraits in better way)
 
 Changelog
+
 17.2. Fixed PaperDoll item slots backgrounds
 19.2. Fixed TalentFrame backgrounds
