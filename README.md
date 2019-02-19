@@ -14,4 +14,5 @@ Todo:
 Changelog
 
 17.2. Fixed PaperDoll item slots backgrounds
+
 19.2. Fixed TalentFrame backgrounds
