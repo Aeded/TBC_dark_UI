@@ -11,6 +11,7 @@ Todo:
 2. Upload unified icon style (some icons are rounded and some have sharp edges. Im able to make everything sharp edged, but dont know way how to make everything rounded)
 3. Add more customized textures (transparent glow, make black borders around portraits in better way)
 4. Color minimap and cursor icons
+5. Remove unused files that are leftover from alpha and beta client
 
 Changelog
 
