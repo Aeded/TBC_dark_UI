@@ -17,3 +17,7 @@ Changelog
 17.2. Fixed PaperDoll item slots backgrounds
 
 19.2. Fixed TalentFrame backgrounds
+
+22.2. Fixed RaidInfo-Header texture
+
+22.2. Corrected UI-MicrobuttonCharacter-up coloring
