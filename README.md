@@ -8,6 +8,6 @@ you might want to disable it otherwise it is going to look very dark.
 
 Did not test on any resolution above 1980x1080. Also changing Video settings bugs out the UI textures (relog will fix them).
 
-Pro tip: Save your current UI before trying this one.
+# Pro tip: Save your current UI before trying this one.
 
 
