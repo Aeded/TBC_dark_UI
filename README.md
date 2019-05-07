@@ -1,24 +1,13 @@
 # TBC_dark_UI
 Recolored client textures and icons
 
-Extract the folder into \World of Warcraft\Interface
-If you put it in AddOns folder it will not work. If you are already colloring some
-parts of UI through addon, you might want to disable it or it is going to look very dark.
+If you are already colloring some parts of UI through addon, 
+you might want to disable it otherwise it is going to look very dark. 
+(For those using SchakaPvPUI: Just comment out any parts that end with SetVertexColor(x, y, z), that will remove the extra darkening)
 
 
-Todo:
-1. Upload second version of only recolored blizz textures (some UI elements are atm slightly edited for my needs)
-2. Upload unified icon style (some icons are rounded and some have sharp edges. Im able to make everything sharp edged, but dont know way how to make everything rounded)
-3. Add more customized textures (transparent glow, make black borders around portraits in better way)
-4. Color minimap and cursor icons
-5. Remove unused files that are leftover from alpha and beta client
+Did not test on any resolution above 1980x1080. Also changing Video settings bugs out the UI textures (relog will fix them).
 
-Changelog
+Pro tip: Save your current UI before trying this one.
 
-17.2. Fixed PaperDoll item slots backgrounds
 
-19.2. Fixed TalentFrame backgrounds
-
-22.2. Fixed RaidInfo-Header texture
-
-22.2. Corrected UI-MicrobuttonCharacter-up coloring
