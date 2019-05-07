@@ -1,5 +1,5 @@
 # TBC_dark_UI
-Recolored client textures and icons
+Recolored client UI textures and icons
 
 If you are already colloring some parts of UI through addon, 
 you might want to disable it otherwise it is going to look very dark. 
