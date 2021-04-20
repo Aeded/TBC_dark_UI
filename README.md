@@ -1,4 +1,7 @@
 # TBC_dark_UI
+
+Not yet fully compatible for Classic TBC
+
 Recolored client UI textures and icons
 
 If you are already colloring some parts of UI through addon, 
