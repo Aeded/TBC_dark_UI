@@ -1,6 +1,7 @@
 # TBC_dark_UI
 
-Not yet fully compatible for Classic TBC
+For Burning Crusade Classic, download TBC_Dark_UI_2.5.1
+For original Burning Crusade (private servers), download TBC_Dark_UI_2.4.3
 
 Recolored client UI textures and icons
 
